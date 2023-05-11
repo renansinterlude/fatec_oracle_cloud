@@ -4,6 +4,6 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    "editor.fontSize": 28,
-    "terminal.integrated.fontSize": 28
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 18
 }
